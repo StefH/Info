@@ -1,6 +1,10 @@
 # C#
 
 ## Blazor
+- ...
+
+## GraphQL
+- [HotChocolateExample](https://github.com/StefH/HotChocolateExample)
 
 ## Source Generators
 - [AnyOf](https://github.com/StefH/AnyOf)
@@ -12,6 +16,7 @@
 
 
 ### Winforms
+- [WebDAV-AudioPlayer](https://github.com/StefH/WebDAV-AudioPlayer)
 - [RandomDataGenerator.Gui](https://github.com/StefH/RandomDataGenerator/tree/master/src/RandomDataGenerator.Gui)
 - [ICSharpCode.TextEditorEx](https://github.com/StefH/ICSharpCode.TextEditorEx)
 
@@ -52,4 +57,4 @@
 - [Matroska](https://github.com/StefH/Matroska)
 
 ## Audio Decoding
-- 
+- [CSCore Ogg and Opus](https://github.com/StefH/WebDAV-AudioPlayer/tree/master/src) 
