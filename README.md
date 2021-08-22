@@ -1,7 +1,21 @@
-# C#
+# Frontend
 
 ## Blazor
-- ...
+- [jsMind.Blazor](https://github.com/StefH/jsMind.Blazor)
+- [Howler.Blazor](https://github.com/StefH/Howler.Blazor)
+
+## Angular
+- [QboxNext - Frontend](https://github.com/StefH/QboxNext/wiki/Frontend)
+- [angular-odata-es5](https://github.com/StefH/angular-odata-es5)
+- [PrimeNG](https://github.com/StefH/PrimeNG-DataTable-Extensions)
+
+## Vue.js
+- [Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator)
+
+## React
+- [ReactExamples]https://github.com/StefH/ReactExamples
+
+# C#
 
 ## GraphQL
 - [HotChocolateExample](https://github.com/StefH/HotChocolateExample)
@@ -57,4 +71,9 @@
 - [Matroska](https://github.com/StefH/Matroska)
 
 ## Audio Decoding
-- [CSCore Ogg and Opus](https://github.com/StefH/WebDAV-AudioPlayer/tree/master/src) 
+- [CSCore Ogg and Opus](https://github.com/StefH/WebDAV-AudioPlayer/tree/master/src)
+
+
+# Speficiations / Standards
+- [RAML + OpenAPI](https://github.com/StefH/RamlToOpenApiConverter)
+- [WSDL](https://github.com/StefH/WSDLGenerator)
